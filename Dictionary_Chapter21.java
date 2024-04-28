@@ -22,7 +22,8 @@ public class Dictionary_Chapter21 {
 	       mean.put("cherry","さくらんぼ");
 	      
      
-	   
+
+
 	       for(String s:word) {
 	    	   //辞書で調べた単語の意味を取得する
 	    	   
