@@ -21,7 +21,8 @@ public class Dictionary_Chapter21 {
 	       mean.put("muscat","マスカット");
 	       mean.put("cherry","さくらんぼ");
 	      
-     
+
+
 
 
 	       for(String s:word) {
